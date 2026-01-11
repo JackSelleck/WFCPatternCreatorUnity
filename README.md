@@ -3,11 +3,6 @@ Creates algorithmic patterns out of tiles in Unity <br>
 Be sure to read the instructions included <br>
 Download the free DOTween package from the unity store for the bouncing effect as the tiles spawn in (Will work without)
 
-![River Maze Generation](https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/RiverMaze.png)
-![Rusted Mesh Generation](https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/RustedMesh.png)
-![Spiked Platforms Generation](https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/SpikedPlatforms.png)
-![Sponge Generation](https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/Sponge.png)
-
 <img src="https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/RiverMaze.png" width="500">
 <img src="https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/RustedMesh.png" width="500">
 <img src="https://github.com/JackSelleck/WFCPatternCreatorUnity/blob/main/SpikedPlatforms.png" width="500">
